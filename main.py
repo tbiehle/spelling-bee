@@ -47,8 +47,8 @@ class Hive:
         self._type_solutions()
 
 
-outer = ['b', 'i', 'h', 'c', 'o', 'n']
-center = 'r'
+outer = ['c', 'm', 'p', 'e', 'o', 'l']
+center = 't'
 
 hive = Hive(outer, center)
 
